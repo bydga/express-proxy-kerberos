@@ -1,0 +1,18 @@
+{
+  "name": "express-proxy-kerberos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "author": "Martin Bydzovsky",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.13.2",
+    "express": "^4.13.1",
+    "http-proxy": "^1.11.1",
+    "passport": "^0.2.2",
+    "passport-kerberos": "0.0.1"
+  }
+}
